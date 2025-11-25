@@ -3,32 +3,32 @@
     {
       "id": 1,
       "title": "Гнедая кобыла",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1550821143-5f7f2f2a5e0e?w=150&h=150&fit=crop"
+      "thumbnailUrl": "https://via.placeholder.com/150/92c952?text=Гнедая+кобыла"
     },
     {
       "id": 2,
       "title": "Конь у воды",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1595593107029-b2a5a0f6b5d8?w=150&h=150&fit=crop"
+      "thumbnailUrl": "https://via.placeholder.com/150/008cba?text=Конь+у+воды"
     },
     {
       "id": 3,
       "title": "Пони",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1569476582407-4be7e6e0e465?w=150&h=150&fit=crop"
+      "thumbnailUrl": "https://via.placeholder.com/150/f6b73c?text=Пони"
     },
     {
       "id": 4,
       "title": "Рысак",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1595593154103-9f0a6a9d9f0c?w=150&h=150&fit=crop"
+      "thumbnailUrl": "https://via.placeholder.com/150/ff6347?text=Рысак"
     },
     {
       "id": 5,
       "title": "Белый конь",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1595593106939-b9c4d8a0e465?w=150&h=150&fit=crop"
+      "thumbnailUrl": "https://via.placeholder.com/150/ffffff?text=Белый+конь"
     },
     {
       "id": 6,
       "title": "Стадо",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1595593107029-b2a5a0f6b5d8?w=150&h=150&fit=crop"
+      "thumbnailUrl": "https://via.placeholder.com/150/6a5acd?text=Стадо"
     }
   ]
 }
