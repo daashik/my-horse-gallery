@@ -1,34 +1,40 @@
 {
-  "photos": [
+  "achievements": [
     {
       "id": 1,
-      "title": "Гнедая кобыла",
-      "thumbnailUrl": "https://via.placeholder.com/150/92c952?text=Гнедая+кобыла"
+      "title": "Победа на Кубке Северной Столицы",
+      "description": "Лошадь «Гром» под управлением Сандры Петровны заняла 1 место в заезде на 1000 метров.",
+      "date": "2024-06-15"
     },
     {
       "id": 2,
-      "title": "Конь у воды",
-      "thumbnailUrl": "https://via.placeholder.com/150/008cba?text=Конь+у+воды"
+      "title": "Золото в Парной Выездке",
+      "description": "Пара «Снежок и Алина Кокошникова» выиграла соревнования в Пушкине.",
+      "date": "2024-08-22"
     },
     {
       "id": 3,
-      "title": "Пони",
-      "thumbnailUrl": "https://via.placeholder.com/150/f6b73c?text=Пони"
+      "title": "Командный заезд — 2 место",
+      "description": "Команда клуба Dust & Glory заняла второе место в открытом турнире «Весенний Галоп».",
+      "date": "2025-03-10"
     },
     {
       "id": 4,
-      "title": "Рысак",
-      "thumbnailUrl": "https://via.placeholder.com/150/ff6347?text=Рысак"
+      "title": "Юниорский Чемпионат",
+      "description": "Юный наездник Петя Петров стал чемпионом среди всадников до 14 лет.",
+      "date": "2025-05-05"
     },
     {
       "id": 5,
-      "title": "Белый конь",
-      "thumbnailUrl": "https://via.placeholder.com/150/ffffff?text=Белый+конь"
+      "title": "Приз «За Лучшую Форму Лошади»",
+      "description": "Лошадь «Звезда» получила награду на выставке Horse Show.",
+      "date": "2025-07-12"
     },
     {
       "id": 6,
-      "title": "Стадо",
-      "thumbnailUrl": "https://via.placeholder.com/150/6a5acd?text=Стадо"
+      "title": "Международный турнир отменен",
+      "description": "Клуб не был представлен в составе участников.",
+      "date": "2025-09-30"
     }
   ]
 }
